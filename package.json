@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@uni/accelerometer": "^1.0.7"
+  }
+}
